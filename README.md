@@ -7,7 +7,7 @@
 <strong>Contacts</strong> {carnevali.julio,rgr.rossi,evangelos.milios}@gmail.com, alneu@icmc.usp.br
 
 <h3>Source code and complete results</h3>
-Source code and complete results are available in the project files.
+Source code and complete results are available in the <a href="https://github.com/juliocarnevali/lp-pul">GitHub repository</a>.
 
 <h3>Text collections</h3>
 Text collections used in this project are available in:
